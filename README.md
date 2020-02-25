@@ -1,4 +1,4 @@
-# Summaries for 3 CS Second Term
+# Summaries for 3 CS Second Term.
 
 | Subject                                             | Exam Date |
 |:----------------------------------------------------|:----------|
